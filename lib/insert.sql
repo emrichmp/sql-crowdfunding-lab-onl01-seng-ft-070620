@@ -12,3 +12,7 @@ INSERT INTO projects(title, category, funding_goal, start_date, end_date) VALUES
 
 INSERT INTO users(name, age) VALUES
 ("Emrich Perrier", 20),
+("Emrich Perrier", 20),
+("Emrich Perrier", 20),
+("Emrich Perrier", 20),
+("Emrich Perrier", 20),
