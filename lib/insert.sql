@@ -31,3 +31,16 @@ INSERT INTO users(name, age) VALUES
 ("Emrich Perrier", 20),
 ("Emrich Perrier", 20),
 ("Emrich Perrier", 20);
+
+INSERT INTO pledges(amount, user_id, project_id) VALUES
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+(830, 9, 9),
+
